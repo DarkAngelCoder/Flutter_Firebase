@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815054289441",
+    "project_id": "atividadefirebase-3a29a",
+    "storage_bucket": "atividadefirebase-3a29a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815054289441:android:54eee3a4ec31c5a7bec160",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeoqOwaDjxadKwl9OHJfOsHom72mv0CVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
